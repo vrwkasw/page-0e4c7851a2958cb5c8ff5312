@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.chonganjob.cn/sitemap.xml
